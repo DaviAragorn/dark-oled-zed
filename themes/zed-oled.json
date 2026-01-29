@@ -1,0 +1,131 @@
+{
+  "name": "Dark OLED",
+  "author": "Davi Aragorn",
+  "themes": [
+    {
+      "name": "Dark OLED",
+      "appearance": "dark",
+      "style": {
+        "background.appearance": "opaque",
+        "minimap.thumb.background": "#00000026",
+        "minimap.thumb.hover_background": "#FFFFFF26",
+        "minimap.thumb.active_background": "#FFFFFF40",
+        "accents": [],
+        "background": "#000000",
+        "status_bar.background": "#000000",
+        "title_bar.background": "#000000",
+        "toolbar.background": "#000000",
+        "tab_bar.background": "#000000",
+        "tab.inactive_background": "#000000",
+        "tab.active_background": "#000000",
+        "pane_group.border": "#000000",
+        "scrollbar.track.background": "#000000",
+        "editor.background": "#000000",
+        "editor.gutter.background": "#000000",
+        "panel.background": "#000000",
+        "border": "#0a0a0a",
+        "border.variant": "#0a0a0a",
+        "border.focused": "#0a0a0a",
+        "border.selected": "#0a0a0a",
+        "border.transparent": "#00000000",
+        "border.disabled": "#0a0a0a",
+        "elevated_surface.background": "#000000",
+        "surface.background": "#000000",
+        "hint": "#969696ff",
+        "players": [],
+        "syntax": {
+          "attribute": {
+            "color": "#9CDCFE"
+          },
+          "boolean": {
+            "color": "#569CD6"
+          },
+          "comment": {
+            "color": "#6A9955"
+          },
+          "comment.doc": {
+            "color": "#6A9955"
+          },
+          "constant": {
+            "color": "#569CD6"
+          },
+          "constructor": {
+            "color": "#569CD6"
+          },
+          "embedded": {
+            "color": "#D4D4D4"
+          },
+          "emphasis.strong": {
+            "color": "#569CD6",
+            "font_weight": 700.0
+          },
+          "function": {
+            "color": "#DCDCAA"
+          },
+          "keyword": {
+            "color": "#569CD6"
+          },
+          "number": {
+            "color": "#B5CEA8"
+          },
+          "operator": {
+            "color": "#D4D4D4"
+          },
+          "preproc": {
+            "color": "#569CD6"
+          },
+          "property": {
+            "color": "#9CDCFE"
+          },
+          "punctuation": {
+            "color": "#808080"
+          },
+          "punctuation.bracket": {
+            "color": "#808080"
+          },
+          "punctuation.delimiter": {
+            "color": "#808080"
+          },
+          "punctuation.list_marker": {
+            "color": "#808080"
+          },
+          "punctuation.special": {
+            "color": "#808080"
+          },
+          "string": {
+            "color": "#CE9178"
+          },
+          "string.escape": {
+            "color": "#569CD6"
+          },
+          "string.regex": {
+            "color": "#CE9178"
+          },
+          "string.special": {
+            "color": "#CE9178"
+          },
+          "string.special.symbol": {
+            "color": "#CE9178"
+          },
+          "tag": {
+            "color": "#569CD6"
+          },
+          "text.literal": {
+            "color": "#CE9178"
+          },
+          "type": {
+            "color": "#4EC9B0"
+          },
+          "variable": {
+            "color": "#9CDCFE"
+          },
+          "variable.special": {
+            "color": "#569CD6"
+          }
+        }
+      }
+    }
+  ],
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "version": "0.2.0"
+}
