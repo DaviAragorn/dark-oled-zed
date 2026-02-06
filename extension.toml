@@ -3,6 +3,6 @@ name = "Dark OLED"
 version = "0.1.0"
 schema_version = 1
 authors = ["Davi Aragorn <daviaragorn@gmail.com>"]
-description = "A Zed theme with pure blacks"
+description = "A Dark theme with pure blacks"
 repository = "https://github.com/DaviAragorn/dark-oled-zed"
 license = "MIT"
