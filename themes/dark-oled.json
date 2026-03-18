@@ -32,6 +32,7 @@
         "elevated_surface.background": "#000000",
         "surface.background": "#000000",
         "hint": "#969696ff",
+        "warning.background": "#7B4A00",
         "players": [],
         "syntax": {
           "attribute": {
